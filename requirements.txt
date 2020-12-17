@@ -1,0 +1,2 @@
+numpy==1.19.4
+scikit_fuzzy==0.4.2
